@@ -33,3 +33,4 @@ npm run dev
 - **Frontend**: React, TypeScript, Tailwind CSS (v4), Framer Motion
 - **Backend**: Node.js, Express, MongoDB
 
+
